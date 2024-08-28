@@ -17,4 +17,8 @@ function App() {
   );
 }
 
+const buttons = (prop) => {
+  // prop = {setPhrase: setPhrase()}
+};
+
 export default App;
